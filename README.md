@@ -21,7 +21,7 @@ To view the portfolio website, simply open the index.html file in a web browser.
 - /images: Contains images used in the portfolio
 
 ## Explore the Portfolio
-Visit [Manav's Portfolio](link-to-live-website) to explore the projects.
+Visit [Manav's Portfolio](http://127.0.0.1:3000/manav-gupta.github.io-master/index.html) to explore the projects.
 
 Feel free to reach out for any inquiries or collaborations.
 
